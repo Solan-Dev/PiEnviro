@@ -1,0 +1,16 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# Editor folders
+.vscode/
+.idea/
